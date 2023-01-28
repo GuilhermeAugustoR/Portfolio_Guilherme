@@ -6,7 +6,7 @@ const Button = () => {
       <a
         className="btn"
         href={
-          "../../../../../public/assets/Curriculo_Guilherme_Augusto_Reis_De_Campos.pdf"
+          "../../../assets/Curriculo_Guilherme_Augusto_Reis_De_Campos.pdf"
         }
         download
       >

@@ -5,10 +5,10 @@ const Socials = () => {
   return (
     <div className="header_socials">
       <a href="http://linkedin.com" target="_blank" rel="noreferrer">
-        <AiOutlineLinkedin />
+        <AiOutlineLinkedin size={26} />
       </a>
       <a href="http://github.com" target="_blank" rel="noreferrer">
-        <AiOutlineGithub />
+        <AiOutlineGithub size={26} />
       </a>
     </div>
   );
