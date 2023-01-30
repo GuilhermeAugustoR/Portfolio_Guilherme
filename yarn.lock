@@ -1186,6 +1186,11 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.1.0.tgz#923ebf8ba47e854863ae72510d9cbf7b44d525ea"
   integrity sha512-zJ6hb3FDgBbO8d2e83vg6zq7tNvDqSq9RwdwfzJ8tdm9JHNvANq2fqwyRn6mlpUb7CwTs5ILdUrGwi9Gk4vY5w==
 
+"@emailjs/browser@^3.10.0":
+  version "3.10.0"
+  resolved "https://registry.yarnpkg.com/@emailjs/browser/-/browser-3.10.0.tgz#74de36d95838e117cf76f7b71b68ffbe5668367d"
+  integrity sha512-pregUOBkSjjctQoAgn8DcSaeY4ypHjXAJEzWlJysM3RkQXw1ulavfHva3YYeAkxfJ7qbIhpyvRmhyQlgNG4GVg==
+
 "@eslint/eslintrc@^1.4.1":
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-1.4.1.tgz#af58772019a2d271b7e2d4c23ff4ddcba3ccfb3e"
