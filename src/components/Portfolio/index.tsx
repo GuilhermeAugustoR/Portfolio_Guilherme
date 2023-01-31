@@ -1,7 +1,7 @@
 import React from "react";
-import { Img } from "react-image";
 import "./styles.css";
 import { porfolios } from "./portfolios";
+import { AiOutlineGithub } from "react-icons/ai";
 
 const Portfolio = () => {
   return (
@@ -14,27 +14,27 @@ const Portfolio = () => {
           return (
             <article key={id} className="portfolio_item">
               <div className="portfolio_item-image">
-                <Img alt={title} src={image} />
+                <img src={image} alt={title} />
               </div>
 
               <h3>{title}</h3>
               <div className="portfolio_item-cta">
                 <a
                   href={github}
-                  className="btn"
+                  className="btn_github"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Github
+                  <AiOutlineGithub size={30}/>
                 </a>
-                <a
+                {/* <a
                   href={demo}
                   className="btn btn-primary"
                   target="_blank"
                   rel="noreferrer"
                 >
                   Live Demo
-                </a>
+                </a> */}
               </div>
             </article>
           );

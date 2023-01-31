@@ -15,8 +15,10 @@
   --bg-variant: #2c2c6c;
   --primary: #2dd4bf;
   --primary600: #0f766e;
+  --primary700: #134e4a;
   --primary-variant: rgba(77, 181, 255, 0.4);
   --white: #ffffff;
+  --black: #000000;
   --light: rgba(255, 255, 255, 0.6);
 
   --transition: all 400ms ease;

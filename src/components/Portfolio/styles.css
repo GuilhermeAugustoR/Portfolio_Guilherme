@@ -28,8 +28,20 @@
 
 .portfolio_item-cta {
   display: flex;
-  gap: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
+  justify-content: center;
+}
+
+.btn_github {
+  width: 50%;
+  justify-content: center;
+  background: var(--primary700);
+  color: var(--black);
+  padding: 0.8rem;
+  border-radius: 0.7rem;
+  display: flex;
+  border: 1px solid var(--primary700);
+  transition: var(--transition);
 }
 
 /* ======================= MEDIUM DEVICES ========================== */

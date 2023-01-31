@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from "react";
-import { Img } from "react-image";
 import "./styles.css";
 import { FaAward } from "react-icons/fa";
 import { BsFolderCheck } from "react-icons/bs";
@@ -14,12 +13,7 @@ const About = () => {
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
-            <Img
-              alt="me"
-              src={
-                "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80"
-              }
-            />
+            <img src={require("../../assets/me.jpg")} alt="me" />
           </div>
         </div>
 
