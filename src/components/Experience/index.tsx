@@ -16,7 +16,7 @@ const Experience = () => {
               <IoCheckmarkDoneSharp className="experience_details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advanced</small>
               </div>
             </article>
 
@@ -24,7 +24,7 @@ const Experience = () => {
               <IoCheckmarkDoneSharp className="experience_details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light experience_text">Intermediate</small>
               </div>
             </article>
 
