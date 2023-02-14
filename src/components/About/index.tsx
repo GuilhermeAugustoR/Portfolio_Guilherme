@@ -32,10 +32,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque quo
-            eius autem saepe ut quas nisi beatae reprehenderit aut nulla
-            voluptates molestias soluta velit sed totam, nihil voluptatum et
-            ullam.
+            Hello! My name is Guilherme Augusto, I have a bachelor's degree in
+            Information Systems from Faculdade Cotemig. I've been studying
+            programming since I was 15. I like to program in React
           </p>
 
           <a href="#contact" className="btn btn_primary">
