@@ -20,4 +20,11 @@ export const porfolios = [
     github: "https://github.com/GuilhermeAugustoR/Portfolio_Guilherme",
     demo: "https://github.com",
   },
+  {
+    id: 4,
+    image: require("../../assets/weatherweb.png"),
+    title: "Weather Web",
+    github: "https://github.com/GuilhermeAugustoR/Weather-web",
+    demo: "https://github.com",
+  },
 ];
