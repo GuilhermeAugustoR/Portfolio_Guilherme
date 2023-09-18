@@ -27,4 +27,11 @@ export const porfolios = [
     github: "https://github.com/GuilhermeAugustoR/Weather-web",
     demo: "https://github.com",
   },
+   {
+    id: 5,
+    image: require("../../assets/pokesite.png"),
+    title: "Weather Web",
+    github: "https://github.com/GuilhermeAugustoR/pokesite",
+    demo: "https://github.com",
+  },
 ];
