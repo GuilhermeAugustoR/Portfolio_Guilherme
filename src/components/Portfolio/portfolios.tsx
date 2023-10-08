@@ -30,7 +30,7 @@ export const porfolios = [
    {
     id: 5,
     image: require("../../assets/pokesite.png"),
-    title: "Weather Web",
+    title: "PokeWeb",
     github: "https://github.com/GuilhermeAugustoR/pokesite",
     demo: "https://github.com",
   },
