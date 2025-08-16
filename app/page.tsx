@@ -370,11 +370,11 @@ export default function Portfolio() {
                 href: "https://www.linkedin.com/in/guilherme-augusto-campos/",
                 color: "hover:text-blue-400",
               },
-              {
-                icon: <Mail className="w-7 h-7" />,
-                href: "#",
-                color: "hover:text-green-400",
-              },
+              // {
+              //   icon: <Mail className="w-7 h-7" />,
+              //   href: "#",
+              //   color: "hover:text-green-400",
+              // },
             ].map((social, index) => (
               <Link
                 key={index}
