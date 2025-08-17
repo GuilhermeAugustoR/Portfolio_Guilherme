@@ -105,7 +105,7 @@ export default function Portfolio() {
       image: "/images/spot-commerce.png",
       tech: ["Next.js", "TypeScript", "Stripe", "Prisma"],
       github: "https://github.com/GuilhermeAugustoR/spot-commerce",
-      live: "#",
+      live: "https://portfolio-guilhermer.vercel.app/",
       featured: true,
     },
     {
