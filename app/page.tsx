@@ -109,6 +109,16 @@ export default function Portfolio() {
       featured: true,
     },
     {
+      title: "Studio Arch",
+      description:
+        "Landing Page moderno voltado para a área de arquitetura",
+      image: "/images/studio-arch.png",
+      tech: ["Next.js", "Typescript", "Tailwind", "Shadcn-ui"],
+      github: "https://github.com/GuilhermeAugustoR/studio-arch",
+      live: "https://landing-studio-arch.vercel.app/",
+      featured: true,
+    },
+    {
       title: "MedSearch",
       description: "Assistente de Pesquisa Acadêmica",
       image: "/images/search-med.png",
@@ -124,16 +134,6 @@ export default function Portfolio() {
       tech: ["Node", "TypeScript", "Express", "Prisma"],
       github: "https://github.com/GuilhermeAugustoR/backend-pizzaria",
       live: "#",
-      featured: true,
-    },
-    {
-      title: "E-commerce fruits",
-      description:
-        "Plataforma de e-commerce apenas com front-end com dados local",
-      image: "/images/ecommerce-fruit.png",
-      tech: ["React", "Typescript", "Tailwind", "Shadcn-ui"],
-      github: "https://github.com/GuilhermeAugustoR/ecommerce-fruits",
-      live: "https://ecommerce-fruits-vert.vercel.app/",
       featured: true,
     },
   ];
